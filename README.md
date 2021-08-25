@@ -10,4 +10,4 @@ elaborou a música.
 - Permitir que o usuário liste as playlists cadastradas juntamente com as músicas que a compõe;
 - Permitir que o usuário toque uma prévia da música em qualquer lugar que seja possível vê-la (seja na hora de listar as músicas, ou na hora de listar as músicas de um artista ou na hora de listar uma playlist);
 - Também deve ser possível que o usuário exclua e adicione novas músicas a uma playlist, além de poder alterar ou remover músicas e artistas do aplicativo;
-- O aplicativo deve manter dados para múltiplos usuários, isto é, cada usuário terá suas músicas e playlists, além de solicitar a autentica¸c˜ao (usuário e senha) do usuário ao se conecte ao aplicativo;
+- O aplicativo deve manter dados para múltiplos usuários, isto é, cada usuário terá suas músicas e playlists, além de solicitar a autenticação (usuário e senha) do usuário ao se conecte ao aplicativo;
